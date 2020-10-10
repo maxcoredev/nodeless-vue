@@ -1,11 +1,11 @@
 import Button from '/Button.js';
 
-export default { template: `
+const template = `
 
 <h1>About</h1>
-
 <p>Some company info</p>
+<Button>Button Content</Button>
 
-<Button></Button>
+`
 
-`}
+export default { template, components: {Button}}

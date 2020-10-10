@@ -1,5 +1,14 @@
-export default { template: `
+const template = `
 
-    <button>Button</button>
-   
-`}
+<button @click="hi()"><slot></slot></button>
+
+`
+
+export default {
+    template,
+    methods: {
+        hi() {
+            alert('Hi!')
+        }
+    }
+}
