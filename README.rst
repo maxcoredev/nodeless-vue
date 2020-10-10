@@ -33,5 +33,5 @@ https://github.com/maxcoredev/nodeless-vue/blob/main/src/About.js
 3) Стили похоже не инкапсулируются, но, легко можно решить скриптиком)
 4) Никакого SSR для SEO, но, это такое
 
-.. code-block::
+.. code-block:: python
     git clone https://github.com/maxcoredev/nodeless-vue.git
