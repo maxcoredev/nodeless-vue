@@ -32,3 +32,6 @@ https://github.com/maxcoredev/nodeless-vue/blob/main/src/About.js
 2) Шаблон хранится в multiline-строке, и это выглядит не очень чисто, но за счёт этого в одном файле можно держать несколько компонентов. При жеании можно заменить на JSX, или избавиться вообще от всех компромиссов с http-vue-loader - но это всё не лучший план
 3) Стили похоже не инкапсулируются, но, легко можно решить скриптиком)
 4) Никакого SSR для SEO, но, это такое
+
+.. code-block:: bash
+    git clone https://github.com/maxcoredev/nodeless-vue.git
