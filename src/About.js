@@ -4,7 +4,7 @@ const template = `
 
 <h1>About</h1>
 <p>Some company info</p>
-<Button>Button Content</Button>
+<Button>Click me!</Button>
 
 `
 
