@@ -33,5 +33,9 @@ https://github.com/maxcoredev/nodeless-vue/blob/main/src/About.js
 3) Стили похоже не инкапсулируются, но, легко можно решить скриптиком)
 4) Никакого SSR для SEO, но, это такое
 
+<<<<<<< HEAD
 **git clone https://github.com/maxcoredev/nodeless-vue.git**
+=======
+*git clone https://github.com/maxcoredev/nodeless-vue.git*
+>>>>>>> 617a48321872f2250e5c84ebf944dda61cf9b2df
 
